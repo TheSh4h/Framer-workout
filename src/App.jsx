@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       {/* <BasicsOfMotion /> */}
-      <Gestures />
+      {/* <Gestures /> */}
       <AnimationControl/>
     </div>
   )
